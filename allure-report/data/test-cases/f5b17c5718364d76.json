@@ -1,0 +1,134 @@
+{
+  "uid" : "f5b17c5718364d76",
+  "name" : "FTest",
+  "fullName" : "COM.TestProject.FirstTest.FTest",
+  "historyId" : "fd8aee65df960bfee0e107b022128bc",
+  "time" : {
+    "start" : 1591087696333,
+    "stop" : 1591087712505,
+    "duration" : 16172
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1591087679234,
+      "stop" : 1591087696083,
+      "duration" : 16849
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1591087712976,
+      "stop" : 1591087713946,
+      "duration" : 970
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "COM.TestProject.FirstTest"
+  }, {
+    "name" : "testClass",
+    "value" : "COM.TestProject.FirstTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "FTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "COM.TestProject.FirstTest"
+  }, {
+    "name" : "host",
+    "value" : "admin-PC"
+  }, {
+    "name" : "thread",
+    "value" : "7408@admin-PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f8e3866f4608effe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591016909710,
+        "stop" : 1591016937271,
+        "duration" : 27561
+      }
+    }, {
+      "uid" : "3286e142faf0ad61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591012244387,
+        "stop" : 1591012258789,
+        "duration" : 14402
+      }
+    }, {
+      "uid" : "81e34b92f62f7a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591011465273,
+        "stop" : 1591011492136,
+        "duration" : 26863
+      }
+    }, {
+      "uid" : "d7dcd29791e01e5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591011047908,
+        "stop" : 1591011063057,
+        "duration" : 15149
+      }
+    }, {
+      "uid" : "391d2fe8f1b5a1af",
+      "status" : "broken",
+      "statusDetails" : "chrome not reachable\n  (Session info: chrome=81.0.4044.138)\nBuild info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'\nSystem info: host: '01HW872192', ip: '192.168.43.147', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{networkConnectionEnabled=false, chrome={chromedriverVersion=81.0.4044.138 (8c6c7ba89cc9453625af54f11fd83179e23450fa-refs/branch-heads/4044@{#999}), userDataDir=C:\\Users\\1561805\\AppData\\Local\\Temp\\scoped_dir14324_416689318}, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, unhandledPromptBehavior=dismiss and notify, strictFileInteractability=false, platform=XP, proxy=Proxy(), goog:chromeOptions={debuggerAddress=localhost:54596}, acceptInsecureCerts=false, browserVersion=81.0.4044.138, browserName=chrome, javascriptEnabled=true, platformName=XP, setWindowRect=true, webauthn:virtualAuthenticators=true}]\nSession ID: fe106818f06e1c42a6ab7c998677caae\n*** Element info: {Using=name, value=q}",
+      "time" : {
+        "start" : 1591010284586,
+        "stop" : 1591010288730,
+        "duration" : 4144
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5b17c5718364d76.json",
+  "parameterValues" : [ ]
+}

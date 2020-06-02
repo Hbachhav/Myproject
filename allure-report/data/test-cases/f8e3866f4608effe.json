@@ -1,0 +1,91 @@
+{
+  "uid" : "f8e3866f4608effe",
+  "name" : "FTest",
+  "fullName" : "COM.TestProject.FirstTest.FTest",
+  "historyId" : "fd8aee65df960bfee0e107b022128bc",
+  "time" : {
+    "start" : 1591016909710,
+    "stop" : 1591016937271,
+    "duration" : 27561
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1591016888776,
+      "stop" : 1591016909428,
+      "duration" : 20652
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1591016937915,
+      "stop" : 1591016939663,
+      "duration" : 1748
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "COM.TestProject.FirstTest"
+  }, {
+    "name" : "testClass",
+    "value" : "COM.TestProject.FirstTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "FTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "COM.TestProject.FirstTest"
+  }, {
+    "name" : "host",
+    "value" : "admin-PC"
+  }, {
+    "name" : "thread",
+    "value" : "5580@admin-PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8e3866f4608effe.json",
+  "parameterValues" : [ ]
+}
