@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="18649" started-at="2020-06-03T11:04:19Z" finished-at="2020-06-03T11:04:38Z">
+  <suite name="Suite" duration-ms="21393" started-at="2020-06-03T14:49:13Z" finished-at="2020-06-03T14:49:35Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="18649" started-at="2020-06-03T11:04:19Z" finished-at="2020-06-03T11:04:38Z">
+    <test name="Test" duration-ms="21393" started-at="2020-06-03T14:49:13Z" finished-at="2020-06-03T14:49:35Z">
       <class name="COM.TestProject.FirstTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:COM.TestProject.FirstTest@1626d54]" name="setup" is-config="true" duration-ms="15338" started-at="2020-06-03T11:04:19Z" finished-at="2020-06-03T11:04:35Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:COM.TestProject.FirstTest@1626d54]" name="setup" is-config="true" duration-ms="19893" started-at="2020-06-03T14:49:13Z" finished-at="2020-06-03T14:49:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="FTest()[pri:0, instance:COM.TestProject.FirstTest@1626d54]" name="FTest" duration-ms="190" started-at="2020-06-03T11:04:35Z" finished-at="2020-06-03T11:04:35Z">
+        <test-method status="PASS" signature="FTest()[pri:0, instance:COM.TestProject.FirstTest@1626d54]" name="FTest" duration-ms="232" started-at="2020-06-03T14:49:33Z" finished-at="2020-06-03T14:49:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FTest -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:COM.TestProject.FirstTest@1626d54]" name="teardown" is-config="true" duration-ms="2725" started-at="2020-06-03T11:04:35Z" finished-at="2020-06-03T11:04:38Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:COM.TestProject.FirstTest@1626d54]" name="teardown" is-config="true" duration-ms="779" started-at="2020-06-03T14:49:34Z" finished-at="2020-06-03T14:49:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
