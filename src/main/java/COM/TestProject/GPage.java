@@ -12,7 +12,7 @@ public class GPage {
 
 
     By Search = By.name("q");
-    By Selenium= By.xpath("//*[@id=\"rso\"]/div[1]/div/div[1]/a");
+    By Selenium= By.xpath("//*[@id=\"rso\"]/div[1]/div/div[1]/a1");
     By SearchBtn = By.name("btnK");
 
     public GPage(WebDriver driver) {
