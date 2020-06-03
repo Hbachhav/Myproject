@@ -9,6 +9,6 @@ public class FirstTest extends BasePage {
     // Modified by Ak
     public void FTest() throws IOException, InterruptedException {
         GPage GP = new GPage(driver);
-        GP.Search("Selenium");
+     //   GP.Search("Selenium");
     }
 }
