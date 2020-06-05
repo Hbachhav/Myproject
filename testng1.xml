@@ -6,9 +6,4 @@
       <class name="COM.TestProject.FirstTest"/>
     </classes>
   </test> <!-- Test -->
-  <test thread-count="5" name="Test2">
-    <classes>
-      <class name="COM.TestProject.SeconTest"/>
-    </classes>
-  </test> <!-- Test -->
 </suite> <!-- Suite -->
