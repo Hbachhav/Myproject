@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 public class SecondTest extends BasePage {
 	
     @Test
-    public void FTest() throws IOException, Throwable {
+    public void STest() throws IOException, Throwable {
         GPage GP = new GPage(driver);
         GP.Search("Selenium");
     }
