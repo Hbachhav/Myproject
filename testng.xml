@@ -8,7 +8,7 @@
   </test> <!-- Test -->
   <test thread-count="5" name="Test2">
     <classes>
-      <class name="COM.TestProject.SeconTest"/>
+      <class name="COM.TestProject.SecondTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
