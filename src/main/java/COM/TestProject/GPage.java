@@ -11,7 +11,7 @@ public class GPage {
     public WebDriver driver;
 
 
-    By Search = By.name("q11221");
+    By Search = By.name("q1");
     By Selenium= By.xpath("//*[@id=\"rso\"]/div[1]/div/div[1]/a");
     By SearchBtn = By.name("btnK");
 
